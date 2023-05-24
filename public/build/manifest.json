@@ -1,0 +1,24 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-5b65068f.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/fonts/Merriweather/Merriweather-Black.ttf": {
+    "file": "assets/Merriweather-Black-4ad3d8f3.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-Black.ttf"
+  },
+  "resources/fonts/Roboto/Roboto-Bold.ttf": {
+    "file": "assets/Roboto-Bold-39a2f9d2.ttf",
+    "src": "resources/fonts/Roboto/Roboto-Bold.ttf"
+  },
+  "resources/fonts/Roboto/Roboto-Regular.ttf": {
+    "file": "assets/Roboto-Regular-7277cfb8.ttf",
+    "src": "resources/fonts/Roboto/Roboto-Regular.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-2e692edb.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
