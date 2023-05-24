@@ -1,6 +1,6 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-5b65068f.css",
+    "file": "assets/app-a0a77773.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
@@ -15,6 +15,26 @@
   "resources/fonts/Roboto/Roboto-Regular.ttf": {
     "file": "assets/Roboto-Regular-7277cfb8.ttf",
     "src": "resources/fonts/Roboto/Roboto-Regular.ttf"
+  },
+  "resources/images/daniel-salcius-RRcYcdGY630-unsplash.jpg": {
+    "file": "assets/daniel-salcius-RRcYcdGY630-unsplash-5687aaf0.jpg",
+    "src": "resources/images/daniel-salcius-RRcYcdGY630-unsplash.jpg"
+  },
+  "resources/images/francesco-ungaro-qMMEsyofxe8-unsplash.jpg": {
+    "file": "assets/francesco-ungaro-qMMEsyofxe8-unsplash-6036fe99.jpg",
+    "src": "resources/images/francesco-ungaro-qMMEsyofxe8-unsplash.jpg"
+  },
+  "resources/images/neom-fYTVHcpak2g-unsplash.jpg": {
+    "file": "assets/neom-fYTVHcpak2g-unsplash-cd3fddec.jpg",
+    "src": "resources/images/neom-fYTVHcpak2g-unsplash.jpg"
+  },
+  "resources/images/nick-hang--fdaq2dr1Ro-unsplash.jpg": {
+    "file": "assets/nick-hang--fdaq2dr1Ro-unsplash-d27e3faa.jpg",
+    "src": "resources/images/nick-hang--fdaq2dr1Ro-unsplash.jpg"
+  },
+  "resources/images/yasintha-perera-tevq6l3Niv0-unsplash.jpg": {
+    "file": "assets/yasintha-perera-tevq6l3Niv0-unsplash-7c2c6045.jpg",
+    "src": "resources/images/yasintha-perera-tevq6l3Niv0-unsplash.jpg"
   },
   "resources/js/app.js": {
     "file": "assets/app-2e692edb.js",
