@@ -1,0 +1,11 @@
+@import "bulma/css/bulma.min.css";
+@import "swiper/swiper.css";
+@import "./fonts.css";
+
+body, button, input, optgroup, select, textarea {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Merriweather', sans-serif;
+}

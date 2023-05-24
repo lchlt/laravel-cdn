@@ -1,0 +1,26 @@
+/* Roboto Regular */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf) format('truetype');
+}
+
+/* Roboto Bold */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url(../fonts/Roboto/Roboto-Bold.ttf) format('truetype');
+}
+
+/* Merriweather */
+@font-face {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../fonts/Merriweather/Merriweather-Black.ttf) format('truetype');
+}
