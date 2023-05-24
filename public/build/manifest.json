@@ -8,6 +8,38 @@
     "file": "assets/Merriweather-Black-4ad3d8f3.ttf",
     "src": "resources/fonts/Merriweather/Merriweather-Black.ttf"
   },
+  "resources/fonts/Merriweather/Merriweather-BlackItalic.ttf": {
+    "file": "assets/Merriweather-BlackItalic-9ca202a2.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-BlackItalic.ttf"
+  },
+  "resources/fonts/Merriweather/Merriweather-Bold.ttf": {
+    "file": "assets/Merriweather-Bold-d46ed290.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-Bold.ttf"
+  },
+  "resources/fonts/Merriweather/Merriweather-BoldItalic.ttf": {
+    "file": "assets/Merriweather-BoldItalic-3362473a.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-BoldItalic.ttf"
+  },
+  "resources/fonts/Merriweather/Merriweather-Italic.ttf": {
+    "file": "assets/Merriweather-Italic-6a96e8bf.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-Italic.ttf"
+  },
+  "resources/fonts/Merriweather/Merriweather-Light.ttf": {
+    "file": "assets/Merriweather-Light-390935ef.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-Light.ttf"
+  },
+  "resources/fonts/Merriweather/Merriweather-LightItalic.ttf": {
+    "file": "assets/Merriweather-LightItalic-1b490dbe.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-LightItalic.ttf"
+  },
+  "resources/fonts/Merriweather/Merriweather-Regular.ttf": {
+    "file": "assets/Merriweather-Regular-ac41ba37.ttf",
+    "src": "resources/fonts/Merriweather/Merriweather-Regular.ttf"
+  },
+  "resources/fonts/Merriweather/OFL.txt": {
+    "file": "assets/OFL-a7ba785a.txt",
+    "src": "resources/fonts/Merriweather/OFL.txt"
+  },
   "resources/fonts/Roboto/Roboto-Bold.ttf": {
     "file": "assets/Roboto-Bold-39a2f9d2.ttf",
     "src": "resources/fonts/Roboto/Roboto-Bold.ttf"
@@ -15,6 +47,26 @@
   "resources/fonts/Roboto/Roboto-Regular.ttf": {
     "file": "assets/Roboto-Regular-7277cfb8.ttf",
     "src": "resources/fonts/Roboto/Roboto-Regular.ttf"
+  },
+  "resources/images/daniel-salcius-RRcYcdGY630-unsplash.jpg": {
+    "file": "assets/daniel-salcius-RRcYcdGY630-unsplash-5687aaf0.jpg",
+    "src": "resources/images/daniel-salcius-RRcYcdGY630-unsplash.jpg"
+  },
+  "resources/images/francesco-ungaro-qMMEsyofxe8-unsplash.jpg": {
+    "file": "assets/francesco-ungaro-qMMEsyofxe8-unsplash-6036fe99.jpg",
+    "src": "resources/images/francesco-ungaro-qMMEsyofxe8-unsplash.jpg"
+  },
+  "resources/images/neom-fYTVHcpak2g-unsplash.jpg": {
+    "file": "assets/neom-fYTVHcpak2g-unsplash-cd3fddec.jpg",
+    "src": "resources/images/neom-fYTVHcpak2g-unsplash.jpg"
+  },
+  "resources/images/nick-hang--fdaq2dr1Ro-unsplash.jpg": {
+    "file": "assets/nick-hang--fdaq2dr1Ro-unsplash-d27e3faa.jpg",
+    "src": "resources/images/nick-hang--fdaq2dr1Ro-unsplash.jpg"
+  },
+  "resources/images/yasintha-perera-tevq6l3Niv0-unsplash.jpg": {
+    "file": "assets/yasintha-perera-tevq6l3Niv0-unsplash-7c2c6045.jpg",
+    "src": "resources/images/yasintha-perera-tevq6l3Niv0-unsplash.jpg"
   },
   "resources/js/app.js": {
     "file": "assets/app-2e692edb.js",
